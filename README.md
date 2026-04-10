@@ -1,63 +1,44 @@
+# Hi there, I'm Arayana Sood 👋✨
 
-✨ I enjoy building projects that combine **design + logic**  
-🌷 Currently improving skills in **Machine Learning & Web Development**
+Welcome to my GitHub profile 💛  
+I'm a B.Tech CSE student who enjoys building projects using **Data Science, Machine Learning, and Web Development**.
 
----
-
-# 📂 Project Showcase
-
-## 🏥 Health Risk Predictor AI
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="180"/>
-</p>
-
-**Description**
-- Predicts risk of diseases using Machine Learning 🤖
-- Shows probability of Heart, Diabetes, Kidney risk 📊
-- Built using Python, Pandas, Sklearn, Streamlit 💻
-- Clean UI dashboard for patient results 🎨
-
-🔗 Live Project:
-https://health-risk-predictor-ai.onrender.com
-
-💡 Features
-- Multi-disease prediction
-- Probability based output
-- Interactive dashboard
-- Real world healthcare use case
+I love creating projects that solve real-world problems, especially in **AI and healthcare** 🧠⚕️
 
 ---
 
-## 🌐 More projects coming soon...
-<p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="160"/>
-</p>
+## 🌸 About Me
 
-Working on:
-- React UI projects ⚛️
-- Data Science mini projects 📊
-- AI based tools 🤖
+- Passionate about AI and Data Science  
+- Interested in Machine Learning projects  
+- Love designing clean and user-friendly interfaces  
+- Always learning new technologies  
+- Enjoy combining creativity with technology  
 
 ---
+
+## 💫 What I enjoy working on
+
+- Machine Learning models  
+- AI-based healthcare projects  
+- Web design and frontend creativity  
+- Problem solving using Python  
+- Making interactive and useful applications  
 
 # 💌 Connect with me
 
 <p align="center">
 
-<a href="mailto:anshkumar1399@gmail.com">
+<a href="mailto:soodarayana@gmail.com ">
 <img src="https://img.shields.io/badge/Gmail-F8C8DC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/ansh-kumar-747009311">
+<a href="https://www.linkedin.com/in/arayana-sood/">
 <img src="https://img.shields.io/badge/LinkedIn-CDB4DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/_a_n_s_hh___">
+<a href="https://instagram.com/arayana_sood">
 <img src="https://img.shields.io/badge/Instagram-FFAFCC?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/Arayana-sood">
-<img src="https://img.shields.io/badge/GeeksforGeeks-BDE0FE?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
@@ -78,12 +59,27 @@ Working on:
 <img src="https://img.shields.io/badge/Streamlit-FFAFCC?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-FFC8DD?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-FFAFCC?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-FFC8DD?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-FFAFCC?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-FFC8DD?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-FFAFCC?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-FFC8DD?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FFAFCC?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FFC8DD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-FFAFCC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-FFC8DD?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-FFAFCC?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
+
+---
+
+# 🌷 Currently Learning
+
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="180"/>
+</p>
+
+- Machine Learning 🧠
+- Data Analysis 📊
+- React Projects ⚛️
+- Backend basics 🗄️
 
 ---
 
@@ -109,6 +105,14 @@ Working on:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 💖 Fun Coding Mood
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200"/>
 </p>
 
 ---
