@@ -1,4 +1,3 @@
-
 ✨ I enjoy building projects that combine **design + logic**  
 🌷 Currently improving skills in **Machine Learning & Web Development**
 
@@ -7,36 +6,46 @@
 # 📂 Project Showcase
 
 ## 🏥 Health Risk Predictor AI
+
 <p align="center">
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="180"/>
 </p>
 
-**Description**
-- Predicts risk of diseases using Machine Learning 🤖
-- Shows probability of Heart, Diabetes, Kidney risk 📊
-- Built using Python, Pandas, Sklearn, Streamlit 💻
-- Clean UI dashboard for patient results 🎨
+<p align="center">
 
-🔗 Live Project:
-https://health-risk-predictor-ai.onrender.com
+<a href="https://health-risk-predictor-ai.onrender.com">
+<img src="https://img.shields.io/badge/View%20Live%20Project-FFAFCC?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
 
-💡 Features
-- Multi-disease prediction
-- Probability based output
-- Interactive dashboard
-- Real world healthcare use case
+</p>
+
+### 📊 About Project
+AI based system that predicts **health risks** using machine learning models.
+
+### ⚙️ Tech Used
+- Python 🐍
+- Pandas 📊
+- Scikit-learn 🤖
+- Streamlit 🎨
+
+### 💡 Features
+✔ Predicts Heart Disease risk ❤️  
+✔ Predicts Diabetes risk 🍬  
+✔ Predicts Kidney Disease risk 🧪  
+✔ Shows probability score 📈  
+✔ Interactive dashboard UI 💻  
 
 ---
 
-## 🌐 More projects coming soon...
+## 🌐 Upcoming Projects
+
 <p align="center">
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="160"/>
 </p>
 
-Working on:
-- React UI projects ⚛️
-- Data Science mini projects 📊
-- AI based tools 🤖
+🔹 React UI Projects ⚛️  
+🔹 Data Science Mini Projects 📊  
+🔹 AI Tools 🤖  
 
 ---
 
@@ -83,40 +92,4 @@ Working on:
 <img src="https://img.shields.io/badge/VS%20Code-FFC8DD?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-FFAFCC?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arayana-sood&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arayana-sood&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Arayana-sood&theme=rose_pine&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8C8DC,100:CDB4DB&height=120&section=footer"/>
-</p>
-
-<p align="center">
-✨ thanks for visiting my profile ✨
 </p>
