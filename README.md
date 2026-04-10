@@ -101,14 +101,6 @@ I love creating projects that solve real-world problems, especially in **AI and 
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 💖 Fun Coding Mood
 
 <p align="center">
